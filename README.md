@@ -43,13 +43,13 @@ Developed by: E subash Miracle Raj RegisterNumber:*/24000572
 
 ![exp2](https://github.com/user-attachments/assets/326a06da-7663-4815-a4d6-eb9e5f790356)
 
-**RTL**
+**RTL**  
+
 ![exp2lo1](https://github.com/user-attachments/assets/b88f0d13-b9d1-43fe-a6af-375f109b3590)
 ![exp2lo2](https://github.com/user-attachments/assets/3fa9b74b-8957-47f1-bc79-0f789167be04)
 
-
-
 **Timing Diagram/output**
+
 ![exp2w1](https://github.com/user-attachments/assets/665a6582-f6e9-4a1c-b756-4e4ab3ce7b41)
 
 
